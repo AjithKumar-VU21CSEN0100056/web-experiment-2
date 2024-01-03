@@ -1,0 +1,17 @@
+        td{
+            text-align: center;
+            
+        }
+        h4{
+            color:darkgoldenrod;
+        }
+        img{
+            width: 80%;
+            height: 1%;
+        }
+        body {
+            background-image: url(https://img.freepik.com/free-vector/grunge-watercolor-background-using-pastel-colours_1048-6530.jpg?size=626&ext=jpg&ga=GA1.1.1565281311.1704251715&semt=ais);
+            background-repeat: no-repeat;
+            background-size:100% 100%;
+           }
+    

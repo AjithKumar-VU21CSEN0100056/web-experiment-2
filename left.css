@@ -1,0 +1,32 @@
+h1{
+    padding: 30px;
+    color:rgb(227, 238, 82);
+}
+h2{
+    text-align: center;
+    color: antiquewhite;
+}
+h5{
+    color: antiquewhite;
+    font-size: 25px;
+    
+}
+h4{
+    color: antiquewhite;
+
+}
+h3{
+    color: antiquewhite;
+}
+body{
+  background-image: url('https://img.freepik.com/free-photo/vintage-grunge-blue-concrete-texture-studio-wall-background-with-vignette_1258-28516.jpg?size=626&ext=jpg&ga=GA1.1.1565281311.1704251715&semt=ais' );
+  background-repeat: no-repeat;
+  background-size:100% 200%;
+}
+div{
+    text-align: center;
+}
+button{
+    background-color: red;
+    text-align: left;
+}
